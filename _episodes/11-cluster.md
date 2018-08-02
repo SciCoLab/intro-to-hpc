@@ -6,6 +6,7 @@ questions:
 - "What is a cluster?"
 - "How does a cluster work?"
 - "How do I log on to a cluster?"
+- "How do I submit my first job?"
 objectives:
 - "Connect to a cluster."
 - "Understand the general cluster architecture."
