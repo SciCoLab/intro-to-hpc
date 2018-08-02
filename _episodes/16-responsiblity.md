@@ -1,5 +1,5 @@
 ---
-title: "Using resources effectively"
+title: "Be a responsible cluster user"
 teaching: 10
 exercises: 5
 questions:
